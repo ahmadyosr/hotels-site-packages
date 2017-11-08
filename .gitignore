@@ -6,8 +6,6 @@ easy_install.pyc
 pip
 pip-9.0.1.dist-info
 pkg_resources
-pytz
-pytz-2017.3.dist-info
 setuptools
 setuptools-36.6.0.dist-info
 wheel
